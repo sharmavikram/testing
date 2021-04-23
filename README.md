@@ -35,12 +35,12 @@ There are design rules that are applied to establish the different characteristi
 - Versioning through URI Path
   - Example:- http://127.0.0.1/api/v1.2.3/user/login
  ![versioning](https://bookingzone-bucket.s3.ap-south-1.amazonaws.com/git_images/8.jpg)
-## Installation
-- Install node js globally
+## Project Dependency installation
+- Install node js globally (node version should be >= 12.x)
   - sudo apt install nodejs
   - check node version (node -v or node –version)
 
-- Install npm (node package manager)
+- Install npm (node package manager) (node version should be >=6.x)
   - sudo apt install npm
   - check npm version (npm -v or npm –version)
 
@@ -52,8 +52,17 @@ There are design rules that are applied to establish the different characteristi
   - npm install -g serverless or npm install serverless -g
   - check serverless version (serverless -v)
  
-  
-  
+- Install Git
+  - sudo apt install git-all
+  - check git version (git --version)
+
+## Project Install
+- Clone the repo using ssh
+  - git clone ssh://bz/v1/repos/bz-api-server
+
+- Clone the rep using https
+  - https://git-codecommit.us-east-1.amazonaws.com/v1/repos/bz-api-server
+ 
 ## Useful links
 Here is the links
 - [Amazon web service](http://aws.amazon.com/)
