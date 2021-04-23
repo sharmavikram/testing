@@ -1,4 +1,4 @@
-# BookingZone API Server
+# BookingZone Progressive web application (PWA)
 BookingZone’s wants to create a premier platform for multi-entertainment facilities to manage their entertainment options and connect with their consumers.  BookingZone’s Multi-tainment Centre Management System (MCMS) shall provide convenience for vendors to manage their entertainment options and allows consumers the ability to schedule, book and pay for the services.  By connecting consumers directly with venues that have the entertainment options they are looking for and allowing them to have control over their entertainment options.  For the vendor, BookingZone’s MCMS shall allow less time managing schedules, events and payments and allows them more to focus on revenue generating activities.
 
 ## Cloud Service
