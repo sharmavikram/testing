@@ -37,32 +37,60 @@ There are design rules that are applied to establish the different characteristi
  ![versioning](https://bookingzone-bucket.s3.ap-south-1.amazonaws.com/git_images/8.jpg)
 ## Project Dependency installation
 - Install node js globally (node version should be >= 12.x)
-  - sudo apt install nodejs
-  - check node version (node -v or node –version)
-
+  ```sh
+  sudo apt install nodejs
+  check node version (node -v or node –version)
+  ```
 - Install npm (node package manager) (node version should be >=6.x)
-  - sudo apt install npm
-  - check npm version (npm -v or npm –version)
-
+  ```sh
+  sudo apt install npm
+  check npm version (npm -v or npm –version)
+  ```
 - Install aws cli sdk globally
-  - sudo apt-get install awscli
-  - check aws cli veriosn (aws --version)
-  
+  ```sh
+  sudo apt-get install awscli
+  check aws cli veriosn (aws --version)
+  ```
 - Install Serverless globally
-  - npm install -g serverless or npm install serverless -g
-  - check serverless version (serverless -v)
- 
+  ```sh
+  npm install -g serverless or npm install serverless -g
+  check serverless version (serverless -v)
+  ```
 - Install Git
-  - sudo apt install git-all
-  - check git version (git --version)
-
+  ```sh
+  sudo apt install git-all
+  check git version (git --version)
+  ```
 ## Project Install
 - Clone the repo using ssh
-  - git clone ssh://bz/v1/repos/bz-api-server
-
+  ```sh
+  git clone ssh://bz/v1/repos/bz-api-server
+  ```
 - Clone the rep using https
-  - https://git-codecommit.us-east-1.amazonaws.com/v1/repos/bz-api-server
- 
+  ```sh
+  https://git-codecommit.us-east-1.amazonaws.com/v1/repos/bz-api-server
+   ```
+- Go to project directory 
+  ```sh
+  cd bz-api-server
+  ```
+- Run npm install command
+  ```sh
+   ~bz-api-server$ npm install
+   ```
+- After install the project dependancy we run the project locally (port 3000)
+  ```sh
+  ~bz-api-server$ npm run start
+   ```
+- For build the and deploy the project on server 
+  ```sh
+  ~bz-api-server$ serverless deploy
+  ```
+Verify the deployment by navigating to your server address in
+your preferred browser.
+```sh
+127.0.0.1:3000/dev/
+```
 ## Useful links
 Here is the links
 - [Amazon web service](http://aws.amazon.com/)
