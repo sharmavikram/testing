@@ -93,7 +93,7 @@ your preferred browser.
 ```
 
 ## Download postman json
-- [Postman json file](file://postman/BookingZone.postman_collection.json)
+- [Postman json file](./postman/BookingZone.postman_collection.json)
 
 ## Useful links
 Here is the links
