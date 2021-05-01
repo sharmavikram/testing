@@ -91,6 +91,10 @@ your preferred browser.
 ```sh
 127.0.0.1:3000/dev/
 ```
+
+## Download postman json
+- [Postman json file](./postman/BookingZone.postman_collection.json)
+
 ## Useful links
 Here is the links
 - [Amazon web service](http://aws.amazon.com/)
