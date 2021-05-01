@@ -1,0 +1,1478 @@
+{
+	"id": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+	"name": "BookingZone",
+	"description": "",
+	"order": [
+		"6f2e0477-bb8c-afaa-ae61-272a0300a1ce",
+		"5790421d-4177-b3b6-f440-0deff2339d68",
+		"7fff61a5-4d6a-fb25-bf83-a611f4b69654",
+		"9217841b-421d-f5d0-88e8-e814ecf0257c",
+		"7b463b10-aac0-232f-1518-5ad7fbfa7a04",
+		"148897d6-700f-3297-1cdf-83010911973d",
+		"cc7a390e-722e-a8be-8e6b-4e7f287bd204",
+		"7d804189-2021-f05d-6bae-85d197747b4c",
+		"169bbdb0-db88-07ff-9370-26fd2541b0d8",
+		"dc2867b6-d410-a785-3979-89b996b1c6bc",
+		"7da0d919-7d95-3937-33de-394d3753780d",
+		"2b73a4c5-d04a-acaa-cc5c-c4eff44ef360",
+		"f29543a8-5174-d641-7de5-e861481cfb47",
+		"7a73a87d-2226-3460-abdc-1d067ebf705d",
+		"7378500b-21c9-76a9-571f-a7c1932bcf43",
+		"8ea70a65-4195-eebf-808e-158619ba708c",
+		"64f9e2d5-3ea0-7df4-3641-91d2190141e5",
+		"120db874-c3d7-fc31-7bad-38e85a8aa47d",
+		"fa6f3306-7b16-d5b9-c386-881da72db7c3",
+		"4cc196a1-f939-3fb8-fb52-856fd57d8dc8",
+		"1605a547-d04c-8432-f589-2f0dacc7e0f1",
+		"5cc709db-d2a7-b4d5-1231-4f8a0a60fabe",
+		"c0d3168c-d6c5-70ee-421b-0ff44ca54a81",
+		"f427c2c8-592e-193e-5b55-52bd624e8705",
+		"3d8b919e-64cd-b415-ce02-34804a859c1c",
+		"e5063dff-8b8a-18dd-0487-7c8db8545d6a",
+		"bfdbf419-388e-1f08-bc83-f446f289af19",
+		"cc77747b-d9fa-4a44-5e16-3b1673b6bd1a",
+		"b6371405-2cf9-dcb7-ec73-6dc68544b5fc",
+		"2ddcde62-1d75-4b74-aaf8-b137d32836cf",
+		"18410989-45f0-4b29-ef31-f2eb91d0e7ad",
+		"037249f8-629c-31d8-0a6c-f73e9598dd7c",
+		"b07251e5-c88e-2470-329f-583dfe5a7b66",
+		"50838517-9554-110f-ca65-c394218f249e",
+		"f35383eb-f747-5787-24c6-f279f8a32e30",
+		"7700e5d6-b42b-315e-da58-4d05ba30d423",
+		"0ed69ff6-0c62-53a3-4f47-a07011046b03",
+		"7bd36430-b2f3-fa1c-2552-a208f17c4d1c",
+		"ab014b36-caeb-7469-e0ae-7ba9ba6624ff",
+		"beb47770-834e-e25a-d88e-0cf9fa84df7f",
+		"318048be-c872-2e8e-d716-0609163bd13c",
+		"6eabe872-18bd-dcef-96ed-00f9b6a381d7",
+		"655b7276-c547-677d-7f15-ecb5b041f299",
+		"4f704996-a0d6-369f-fbe7-9f464a048e9a",
+		"f0301e98-c303-6bf7-0e88-9246e9f23931",
+		"365568fa-fd9c-be3a-bd74-4e0ab0dd684d",
+		"89e974de-1996-4931-f026-360aa3fbc8a1",
+		"906f5128-297b-090b-73d1-35311d8d3667",
+		"b2cfe664-d994-2dc4-ae43-54e61d05d89f",
+		"700c991f-eefa-1f37-0316-acbf430435fe",
+		"2826596c-099e-e799-a6d2-f1faa956f7e3",
+		"00d3282d-093e-a305-9084-95a1826ef774",
+		"b2a1ec24-8422-01da-94f9-6b529881fbc3",
+		"04eb8838-b483-336c-70fa-36aab109e61a",
+		"b4693730-f442-21b9-b9d7-f41f3a76aa13",
+		"a1633ab7-18b5-40a7-6399-62c69ba64c41",
+		"051eebdd-eaeb-04d7-3cff-b2ccb3d6d596",
+		"60d0408b-e2eb-f15f-1783-7d5471b95161",
+		"fc82d13b-328f-7834-fe59-891c25f569c9"
+	],
+	"folders": [],
+	"folders_order": [],
+	"timestamp": 0,
+	"owner": "8893947",
+	"public": false,
+	"requests": [
+		{
+			"id": "00d3282d-093e-a305-9084-95a1826ef774",
+			"name": "upload attachment",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "PUT",
+			"headers": "",
+			"dataMode": "binary",
+			"data": [],
+			"rawModeData": "",
+			"url": "https://bookingzone-bucket.s3.ap-south-1.amazonaws.com/bowlero%40gmail.com?Content-Type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIASSBXFULMOS6AZZU2%2F20210413%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20210413T094018Z&X-Amz-Expires=3600&X-Amz-Signature=31c338ef96de55c3f0a98931c4016ffba388af0c96ad6b1bc6dffcca2684f1be&X-Amz-SignedHeaders=host%3Bx-amz-acl&x-amz-acl=public-read",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "Content-Type",
+					"value": "image%2Fjpeg"
+				},
+				{
+					"key": "X-Amz-Algorithm",
+					"value": "AWS4-HMAC-SHA256"
+				},
+				{
+					"key": "X-Amz-Credential",
+					"value": "AKIASSBXFULMOS6AZZU2%2F20210413%2Fap-south-1%2Fs3%2Faws4_request"
+				},
+				{
+					"key": "X-Amz-Date",
+					"value": "20210413T094018Z"
+				},
+				{
+					"key": "X-Amz-Expires",
+					"value": "3600"
+				},
+				{
+					"key": "X-Amz-Signature",
+					"value": "31c338ef96de55c3f0a98931c4016ffba388af0c96ad6b1bc6dffcca2684f1be"
+				},
+				{
+					"key": "X-Amz-SignedHeaders",
+					"value": "host%3Bx-amz-acl"
+				},
+				{
+					"key": "x-amz-acl",
+					"value": "public-read"
+				}
+			],
+			"headerData": [],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "037249f8-629c-31d8-0a6c-f73e9598dd7c",
+			"name": "Delete Service Item Buy now and party event",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "DELETE",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJWaWtyYW0iLCJsYXN0TmFtZSI6IlNoYXJtYSIsImVtYWlsIjoidmlrcmFtLnNoYXJtYUBpbm5vZGVlZC5pbiIsImlhdCI6MTYxMzk2MjgyMywiZXhwIjoxNjE2NTU0ODIzfQ.ogUnCFQWBKNZ6sV3SkGF05g7mXsU89Oa5jyEFaYAaGA",
+			"dataMode": "params",
+			"data": [],
+			"rawModeData": "",
+			"url": "{{API_URL}}/service-item/delete/bz-7e8642da-c0db-4972-8b6b-d42c24402530/bz-6f6c4917-c559-439b-8fbe-319d7be214c3",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJWaWtyYW0iLCJsYXN0TmFtZSI6IlNoYXJtYSIsImVtYWlsIjoidmlrcmFtLnNoYXJtYUBpbm5vZGVlZC5pbiIsImlhdCI6MTYxMzk2MjgyMywiZXhwIjoxNjE2NTU0ODIzfQ.ogUnCFQWBKNZ6sV3SkGF05g7mXsU89Oa5jyEFaYAaGA"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "04eb8838-b483-336c-70fa-36aab109e61a",
+			"name": "Get Favourite List",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "GET",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJBZG1pbiBCWiIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJhZG1pbkBnbWFpbC5jb20iLCJpYXQiOjE2MTY0NzUwODIsImV4cCI6MTYxOTA2NzA4Mn0.S6SzENyA8VZV83tjDptBdJyXMJKagL_2wZpToohszcE",
+			"data": [],
+			"rawModeData": "",
+			"url": "{{API_URL}}/favourite/list/bz-e9ce1b5c-e557-4ef2-b48b-57323f0fb24a",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJBZG1pbiBCWiIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJhZG1pbkBnbWFpbC5jb20iLCJpYXQiOjE2MTY0NzUwODIsImV4cCI6MTYxOTA2NzA4Mn0.S6SzENyA8VZV83tjDptBdJyXMJKagL_2wZpToohszcE",
+					"type": "text"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "051eebdd-eaeb-04d7-3cff-b2ccb3d6d596",
+			"name": "Get booking detail",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "GET",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImJ6LTU4YmYxMTk5LWVmMzUtNGVjYi1hMDQ5LTEyOWI4ZDk1MzAyMSIsImZpcnN0TmFtZSI6IkJ1c2luZXNzIiwibGFzdE5hbWUiOiJCb29raW5nIFpvbmUiLCJlbWFpbCI6ImJ1c2luZXNzQGdtYWlsLmNvbSIsImlhdCI6MTYxOTE3NjMzNSwiZXhwIjoxNjIxNzY4MzM1fQ.2vio5eQmFeKAdQrfIVwWbbeM_1l5hIR-PsXmoxPiO2U",
+			"data": [],
+			"rawModeData": "",
+			"url": "{{API_URL}}/booking/details/bz-26868d1a-b011-4c6e-9eca-9d952d3ee226/1rmYpq5lz1XquLzeIiYqOb8BeKM",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImJ6LTU4YmYxMTk5LWVmMzUtNGVjYi1hMDQ5LTEyOWI4ZDk1MzAyMSIsImZpcnN0TmFtZSI6IkJ1c2luZXNzIiwibGFzdE5hbWUiOiJCb29raW5nIFpvbmUiLCJlbWFpbCI6ImJ1c2luZXNzQGdtYWlsLmNvbSIsImlhdCI6MTYxOTE3NjMzNSwiZXhwIjoxNjIxNzY4MzM1fQ.2vio5eQmFeKAdQrfIVwWbbeM_1l5hIR-PsXmoxPiO2U",
+					"type": "text"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "0ed69ff6-0c62-53a3-4f47-a07011046b03",
+			"name": "Create party event",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "POST",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJBZG1pbiBCWiIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJhZG1pbkBnbWFpbC5jb20iLCJpYXQiOjE2MTY0NzUwODIsImV4cCI6MTYxOTA2NzA4Mn0.S6SzENyA8VZV83tjDptBdJyXMJKagL_2wZpToohszcE",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\r\n\t\"serviceId\": \"BOWLING\",\r\n    \"serviceConfigId\": \"bz-6c98d28e-7e5c-492e-beb2-82fd005bfb81\",\r\n\t\"businessId\": \"bz-e9ce1b5c-e557-4ef2-b48b-57323f0fb24a\",\r\n\t\"outletId\": \"bz-458f42f9-4cb4-4c1c-888f-36f5a30ae372\",\r\n\t\"title\": \"Marriage party\",\r\n\t\"description\": \"Marriage cake will be provided\",\r\n    \"time\":[{\r\n        \"from\": 9,\r\n        \"to\": 5,\r\n        \"increment\": \"15m\"\r\n    }],\r\n    \"bookingDuration\": [60, 90, 120, 150],\r\n    \"packages\": [{\r\n\t\t\"members\": 20,\r\n\t\t\"price\": 50,\r\n\t\t\"additionalPersonPrice\": 5\r\n\t}]\r\n}",
+			"url": "{{API_URL}}/service-item/party-event/create",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJBZG1pbiBCWiIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJhZG1pbkBnbWFpbC5jb20iLCJpYXQiOjE2MTY0NzUwODIsImV4cCI6MTYxOTA2NzA4Mn0.S6SzENyA8VZV83tjDptBdJyXMJKagL_2wZpToohszcE",
+					"type": "text"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "120db874-c3d7-fc31-7bad-38e85a8aa47d",
+			"name": "Filter Business",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "GET",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImJ6LWJlMDU2MDFkLTg0ZDEtNGI2Ny05MTUyLTRkYjlhMDMwZGRjOCIsImZpcnN0TmFtZSI6IkFkbWluIEJ6IiwibGFzdE5hbWUiOiJCb29raW5nIFpvbmUiLCJlbWFpbCI6ImFkbWluQGdtYWlsLmNvbSIsImlhdCI6MTYxOTU4ODA1MywiZXhwIjoxNjIyMTgwMDUzfQ.3SJapKY3jf0_cQO9X8JuNSwy3Qe2iX5aRx0fELrTUyI",
+			"data": [],
+			"rawModeData": "",
+			"url": "{{API_URL}}/business/filter?email=bowlero@gmail.com",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "email",
+					"value": "bowlero@gmail.com"
+				}
+			],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImJ6LWJlMDU2MDFkLTg0ZDEtNGI2Ny05MTUyLTRkYjlhMDMwZGRjOCIsImZpcnN0TmFtZSI6IkFkbWluIEJ6IiwibGFzdE5hbWUiOiJCb29raW5nIFpvbmUiLCJlbWFpbCI6ImFkbWluQGdtYWlsLmNvbSIsImlhdCI6MTYxOTU4ODA1MywiZXhwIjoxNjIyMTgwMDUzfQ.3SJapKY3jf0_cQO9X8JuNSwy3Qe2iX5aRx0fELrTUyI"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "148897d6-700f-3297-1cdf-83010911973d",
+			"name": "User Forgot Password",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "POST",
+			"headers": "Content-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\n\t\"email\": \"tarni.bagel@innodeed.com\"\n}",
+			"url": "{{API_URL}}/users/forgot/password",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "1605a547-d04c-8432-f589-2f0dacc7e0f1",
+			"name": "Get Manager list",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "GET",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJWaWtyYW0iLCJsYXN0TmFtZSI6IlNoYXJtYSIsImVtYWlsIjoidmlrcmFtLnNoYXJtYUBpbm5vZGVlZC5pbiIsImlhdCI6MTYxNzE5MTcyOSwiZXhwIjoxNjE5NzgzNzI5fQ.-NnCiswkxM2M36SiurfkFUwBMkcyW3dHN965scPbqf4",
+			"data": [],
+			"rawModeData": "",
+			"url": "{{API_URL}}/manager/list/bz-36427414-918f-4ba5-8433-6160493db032",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJWaWtyYW0iLCJsYXN0TmFtZSI6IlNoYXJtYSIsImVtYWlsIjoidmlrcmFtLnNoYXJtYUBpbm5vZGVlZC5pbiIsImlhdCI6MTYxNzE5MTcyOSwiZXhwIjoxNjE5NzgzNzI5fQ.-NnCiswkxM2M36SiurfkFUwBMkcyW3dHN965scPbqf4"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "169bbdb0-db88-07ff-9370-26fd2541b0d8",
+			"name": "User Logout",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "GET",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJWaWtyYW0iLCJsYXN0TmFtZSI6IlNoYXJtYSIsImVtYWlsIjoidmlrcmFtLnNoYXJtYUBpbm5vZGVlZC5pbiIsImlhdCI6MTYxMzc0NDgwMywiZXhwIjoxNjE2MzM2ODAzfQ.nDtk7v6yqkdalNX1g_9wvlIZ8sjgtnXM54qE6S2E7As",
+			"data": [],
+			"rawModeData": "",
+			"url": "{{API_URL}}/users/logout",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJWaWtyYW0iLCJsYXN0TmFtZSI6IlNoYXJtYSIsImVtYWlsIjoidmlrcmFtLnNoYXJtYUBpbm5vZGVlZC5pbiIsImlhdCI6MTYxMzc0NDgwMywiZXhwIjoxNjE2MzM2ODAzfQ.nDtk7v6yqkdalNX1g_9wvlIZ8sjgtnXM54qE6S2E7As"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "18410989-45f0-4b29-ef31-f2eb91d0e7ad",
+			"name": "Get Service Item Detail",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "GET",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImJ6LWJlMDU2MDFkLTg0ZDEtNGI2Ny05MTUyLTRkYjlhMDMwZGRjOCIsImZpcnN0TmFtZSI6IkFkbWluIEJ6IiwibGFzdE5hbWUiOiJCb29raW5nIFpvbmUiLCJlbWFpbCI6ImFkbWluQGdtYWlsLmNvbSIsImlhdCI6MTYxOTU4ODA1MywiZXhwIjoxNjIyMTgwMDUzfQ.3SJapKY3jf0_cQO9X8JuNSwy3Qe2iX5aRx0fELrTUyI",
+			"data": [],
+			"rawModeData": "",
+			"url": "{{API_URL}}/service-item/details/bz-52dd3649-c611-4050-8616-7bd5d9ecaf08/bz-00cb04e9-5a71-41c1-86af-c828a7040fde",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImJ6LWJlMDU2MDFkLTg0ZDEtNGI2Ny05MTUyLTRkYjlhMDMwZGRjOCIsImZpcnN0TmFtZSI6IkFkbWluIEJ6IiwibGFzdE5hbWUiOiJCb29raW5nIFpvbmUiLCJlbWFpbCI6ImFkbWluQGdtYWlsLmNvbSIsImlhdCI6MTYxOTU4ODA1MywiZXhwIjoxNjIyMTgwMDUzfQ.3SJapKY3jf0_cQO9X8JuNSwy3Qe2iX5aRx0fELrTUyI"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "2826596c-099e-e799-a6d2-f1faa956f7e3",
+			"name": "Get upload attachment url",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "POST",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJBZG1pbiBCWiIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJhZG1pbkBnbWFpbC5jb20iLCJpYXQiOjE2MTY0NzUwODIsImV4cCI6MTYxOTA2NzA4Mn0.S6SzENyA8VZV83tjDptBdJyXMJKagL_2wZpToohszcE",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\r\n    \"fileName\": \"bowlero@gmail.com\"\r\n}",
+			"url": "{{API_URL}}/services/getSignedUrl",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJBZG1pbiBCWiIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJhZG1pbkBnbWFpbC5jb20iLCJpYXQiOjE2MTY0NzUwODIsImV4cCI6MTYxOTA2NzA4Mn0.S6SzENyA8VZV83tjDptBdJyXMJKagL_2wZpToohszcE",
+					"type": "text"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "2b73a4c5-d04a-acaa-cc5c-c4eff44ef360",
+			"name": "Get Service Info",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "GET",
+			"headers": "Content-Type: application/json\nAuthorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJWaWtyYW0iLCJsYXN0TmFtZSI6IlNoYXJtYSIsImVtYWlsIjoidmlrcmFtLnNoYXJtYUBpbm5vZGVlZC5pbiIsImlhdCI6MTYxMzk2MjgyMywiZXhwIjoxNjE2NTU0ODIzfQ.ogUnCFQWBKNZ6sV3SkGF05g7mXsU89Oa5jyEFaYAaGA",
+			"data": [],
+			"rawModeData": "",
+			"url": "{{API_URL}}/users/services/info/PARTY_&_EVENTS",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJWaWtyYW0iLCJsYXN0TmFtZSI6IlNoYXJtYSIsImVtYWlsIjoidmlrcmFtLnNoYXJtYUBpbm5vZGVlZC5pbiIsImlhdCI6MTYxMzk2MjgyMywiZXhwIjoxNjE2NTU0ODIzfQ.ogUnCFQWBKNZ6sV3SkGF05g7mXsU89Oa5jyEFaYAaGA"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "2ddcde62-1d75-4b74-aaf8-b137d32836cf",
+			"name": "Create Service Item",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "POST",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJBZG1pbiBCWiIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJhZG1pbkBnbWFpbC5jb20iLCJpYXQiOjE2MTY0NzUwODIsImV4cCI6MTYxOTA2NzA4Mn0.S6SzENyA8VZV83tjDptBdJyXMJKagL_2wZpToohszcE\nContent-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\r\n\t\"serviceId\": \"BOWLING\",\r\n    \"serviceConfigId\": \"bz-a43fbeca-2c5b-487a-b918-4e51eafc6e20\",\r\n\t\"businessId\": \"bz-dac89523-a36f-43c2-98bb-29574822baa2\",\r\n\t\"outletId\": \"bz-36427414-918f-4ba5-8433-6160493db032\",\r\n\t\"title\": \"Reserve Lane\",\r\n\t\"description\": \"No description\",\r\n\t\"schedules\": [\r\n            {\r\n                \"days\": [\r\n                    {\r\n                        \"value\": \"MON\",\r\n                        \"label\": \"MON\"\r\n                    },\r\n                    {\r\n                        \"value\": \"TUE\",\r\n                        \"label\": \"TUE\"\r\n                    }\r\n                ],\r\n                \"bookingDuration\": [\r\n                    {\r\n                        \"value\": 1,\r\n                        \"label\": \"1.0\"\r\n                    },\r\n                    {\r\n                        \"value\": 2,\r\n                        \"label\": \"2.0\"\r\n                    }\r\n                ],\r\n                \"customerTypes\": [\r\n                    \"Child\"\r\n                ],\r\n                \"reservationSlots\": [\r\n                    {\r\n                        \"from\": \"09:00\",\r\n                        \"interval\": \"15\",\r\n                        \"pricePerHours\": {\r\n                            \"shoes\": \"false\",\r\n                            \"currencySymbol\": \"\",\r\n                            \"price\": 40\r\n                        },\r\n                        \"to\": \"21:00\",\r\n                        \"pricePerGame\": [\r\n                            {\r\n                                \"type\": \"Child\",\r\n                                \"currencySymbol\": \"\",\r\n                                \"price\": 5\r\n                            }\r\n                        ]\r\n                    }\r\n                ],\r\n                \"dateRange\": {\r\n                    \"endDate\": \"2021-04-30\",\r\n                    \"startDate\": \"2021-04-19\"\r\n                },\r\n                \"purchaseItems\": [\r\n                    {\r\n                        \"name\": \"Shoe\",\r\n                        \"currencySymbol\": \"\",\r\n                        \"price\": 10\r\n                    }\r\n                ]\r\n            }\r\n        ]\r\n}",
+			"url": "{{API_URL}}/service-item/create",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJBZG1pbiBCWiIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJhZG1pbkBnbWFpbC5jb20iLCJpYXQiOjE2MTY0NzUwODIsImV4cCI6MTYxOTA2NzA4Mn0.S6SzENyA8VZV83tjDptBdJyXMJKagL_2wZpToohszcE"
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "318048be-c872-2e8e-d716-0609163bd13c",
+			"name": "delete service config",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "DELETE",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJWaWtyYW0iLCJsYXN0TmFtZSI6IlNoYXJtYSIsImVtYWlsIjoidmlrcmFtLnNoYXJtYUBpbm5vZGVlZC5pbiIsImlhdCI6MTYxMzk2MjgyMywiZXhwIjoxNjE2NTU0ODIzfQ.ogUnCFQWBKNZ6sV3SkGF05g7mXsU89Oa5jyEFaYAaGA",
+			"data": [],
+			"rawModeData": "",
+			"url": "{{API_URL}}/service-config/delete/bz-458f42f9-4cb4-4c1c-888f-36f5a30ae372/BOWLING",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJWaWtyYW0iLCJsYXN0TmFtZSI6IlNoYXJtYSIsImVtYWlsIjoidmlrcmFtLnNoYXJtYUBpbm5vZGVlZC5pbiIsImlhdCI6MTYxMzk2MjgyMywiZXhwIjoxNjE2NTU0ODIzfQ.ogUnCFQWBKNZ6sV3SkGF05g7mXsU89Oa5jyEFaYAaGA",
+					"type": "text"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "365568fa-fd9c-be3a-bd74-4e0ab0dd684d",
+			"name": "Delete Membership",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "DELETE",
+			"headers": "",
+			"data": [],
+			"rawModeData": "",
+			"url": "{{API_URL}}/membership/delete/bz-7e8642da-c0db-4972-8b6b-d42c24402530/bz-ee7de5e7-2ea8-4662-93b0-65f70e837d16",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "3d8b919e-64cd-b415-ce02-34804a859c1c",
+			"name": "Delete Manager",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "DELETE",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJCdXNpbmVzcyBPd25lciIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJidXNpbmVzc0BnbWFpbC5jb20iLCJpYXQiOjE2MTcwODU1NzAsImV4cCI6MTYxOTY3NzU3MH0.bn5-pFA9cVlcsvEhDDL-jbVntKByQczQMqYUgGMHAzg",
+			"data": [],
+			"rawModeData": "",
+			"url": "{{API_URL}}/manager/delete/bz-2a8ed724-6f3c-4405-ad2c-cc6ecc89c5a6",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJCdXNpbmVzcyBPd25lciIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJidXNpbmVzc0BnbWFpbC5jb20iLCJpYXQiOjE2MTcwODU1NzAsImV4cCI6MTYxOTY3NzU3MH0.bn5-pFA9cVlcsvEhDDL-jbVntKByQczQMqYUgGMHAzg",
+					"type": "text"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "4cc196a1-f939-3fb8-fb52-856fd57d8dc8",
+			"name": "Create Manager",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "POST",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJWaWtyYW0iLCJsYXN0TmFtZSI6IlNoYXJtYSIsImVtYWlsIjoidmlrcmFtLnNoYXJtYUBpbm5vZGVlZC5pbiIsImlhdCI6MTYxMzk2MjgyMywiZXhwIjoxNjE2NTU0ODIzfQ.ogUnCFQWBKNZ6sV3SkGF05g7mXsU89Oa5jyEFaYAaGA\nContent-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\n\t\"firstName\": \"Vikram\",\n\t\"lastName\": \"Sharma\",\n\t\"email\": \"vikram.sharma@innodeed.in\",\n\t\"password\":\"1234567\",\n\t\"provider\": \"APP\"\n}",
+			"url": "{{API_URL}}/managers/register",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJWaWtyYW0iLCJsYXN0TmFtZSI6IlNoYXJtYSIsImVtYWlsIjoidmlrcmFtLnNoYXJtYUBpbm5vZGVlZC5pbiIsImlhdCI6MTYxMzk2MjgyMywiZXhwIjoxNjE2NTU0ODIzfQ.ogUnCFQWBKNZ6sV3SkGF05g7mXsU89Oa5jyEFaYAaGA"
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "4f704996-a0d6-369f-fbe7-9f464a048e9a",
+			"name": "Get membership list",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "GET",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJBZG1pbiBCWiIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJhZG1pbkBnbWFpbC5jb20iLCJpYXQiOjE2MTY0NzUwODIsImV4cCI6MTYxOTA2NzA4Mn0.S6SzENyA8VZV83tjDptBdJyXMJKagL_2wZpToohszcE",
+			"data": [],
+			"rawModeData": "",
+			"url": "{{API_URL}}/membership/list/bz-2ebd3a05-22de-4d0a-baf8-488fddf7b3bb",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJBZG1pbiBCWiIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJhZG1pbkBnbWFpbC5jb20iLCJpYXQiOjE2MTY0NzUwODIsImV4cCI6MTYxOTA2NzA4Mn0.S6SzENyA8VZV83tjDptBdJyXMJKagL_2wZpToohszcE",
+					"type": "text"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "50838517-9554-110f-ca65-c394218f249e",
+			"name": "Update Service Config",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "PUT",
+			"headers": "Content-Type: application/json\nAuthorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJBZG1pbiBCWiIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJhZG1pbkBnbWFpbC5jb20iLCJpYXQiOjE2MTY0NzUwODIsImV4cCI6MTYxOTA2NzA4Mn0.S6SzENyA8VZV83tjDptBdJyXMJKagL_2wZpToohszcE",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\n\t\"status\":\"true\",\n    \"uberFlag\": false\n}",
+			"url": "{{API_URL}}/service-config/update/bz-458f42f9-4cb4-4c1c-888f-36f5a30ae372/bz-ec8a961d-0440-4072-8ff2-9e475ada23a2",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJBZG1pbiBCWiIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJhZG1pbkBnbWFpbC5jb20iLCJpYXQiOjE2MTY0NzUwODIsImV4cCI6MTYxOTA2NzA4Mn0.S6SzENyA8VZV83tjDptBdJyXMJKagL_2wZpToohszcE"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "5790421d-4177-b3b6-f440-0deff2339d68",
+			"name": "Get Business Detail",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "GET",
+			"headers": "",
+			"data": [],
+			"rawModeData": "",
+			"url": "{{API_URL}}/business/details/bz-business-c0b2d82e-ac62-4e14-8231-b499a6ec2b22",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "5cc709db-d2a7-b4d5-1231-4f8a0a60fabe",
+			"name": "Get Manager detail",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "GET",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJWaWtyYW0iLCJsYXN0TmFtZSI6IlNoYXJtYSIsImVtYWlsIjoidmlrcmFtLnNoYXJtYUBpbm5vZGVlZC5pbiIsImlhdCI6MTYxNzE5MTcyOSwiZXhwIjoxNjE5NzgzNzI5fQ.-NnCiswkxM2M36SiurfkFUwBMkcyW3dHN965scPbqf4",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://localhost:3000/dev/manager/list/bz-2ebd3a05-22de-4d0a-baf8-488fddf7b3bb",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJWaWtyYW0iLCJsYXN0TmFtZSI6IlNoYXJtYSIsImVtYWlsIjoidmlrcmFtLnNoYXJtYUBpbm5vZGVlZC5pbiIsImlhdCI6MTYxNzE5MTcyOSwiZXhwIjoxNjE5NzgzNzI5fQ.-NnCiswkxM2M36SiurfkFUwBMkcyW3dHN965scPbqf4"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "60d0408b-e2eb-f15f-1783-7d5471b95161",
+			"name": "Get outlet booking list",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "GET",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImJ6LTU4YmYxMTk5LWVmMzUtNGVjYi1hMDQ5LTEyOWI4ZDk1MzAyMSIsImZpcnN0TmFtZSI6IkJ1c2luZXNzIiwibGFzdE5hbWUiOiJCb29raW5nIFpvbmUiLCJlbWFpbCI6ImJ1c2luZXNzQGdtYWlsLmNvbSIsImlhdCI6MTYxOTE3NjMzNSwiZXhwIjoxNjIxNzY4MzM1fQ.2vio5eQmFeKAdQrfIVwWbbeM_1l5hIR-PsXmoxPiO2U",
+			"data": [],
+			"rawModeData": "",
+			"url": "{{API_URL}}/booking/outlet/list?outletId=bz-2ebd3a05-22de-4d0a-baf8-488fddf7b3bb",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "outletId",
+					"value": "bz-2ebd3a05-22de-4d0a-baf8-488fddf7b3bb"
+				}
+			],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImJ6LTU4YmYxMTk5LWVmMzUtNGVjYi1hMDQ5LTEyOWI4ZDk1MzAyMSIsImZpcnN0TmFtZSI6IkJ1c2luZXNzIiwibGFzdE5hbWUiOiJCb29raW5nIFpvbmUiLCJlbWFpbCI6ImJ1c2luZXNzQGdtYWlsLmNvbSIsImlhdCI6MTYxOTE3NjMzNSwiZXhwIjoxNjIxNzY4MzM1fQ.2vio5eQmFeKAdQrfIVwWbbeM_1l5hIR-PsXmoxPiO2U",
+					"type": "text"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "64f9e2d5-3ea0-7df4-3641-91d2190141e5",
+			"name": "Update Business",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "PUT",
+			"headers": "Content-Type: application/json\nAuthorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJBZG1pbiBCWiIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJhZG1pbkBnbWFpbC5jb20iLCJpYXQiOjE2MTY0NzUwODIsImV4cCI6MTYxOTA2NzA4Mn0.S6SzENyA8VZV83tjDptBdJyXMJKagL_2wZpToohszcE",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\n\t\"name\": \"Bowlero Bowling 12\",\n    \"provider\": \"APP\"\n}",
+			"url": "{{API_URL}}/business/update/bz-dac89523-a36f-43c2-98bb-29574822baa2",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJBZG1pbiBCWiIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJhZG1pbkBnbWFpbC5jb20iLCJpYXQiOjE2MTY0NzUwODIsImV4cCI6MTYxOTA2NzA4Mn0.S6SzENyA8VZV83tjDptBdJyXMJKagL_2wZpToohszcE"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "655b7276-c547-677d-7f15-ecb5b041f299",
+			"name": "create membership",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "POST",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJCdXNpbmVzcyBPd25lciIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJidXNpbmVzc0BnbWFpbC5jb20iLCJpYXQiOjE2MTcwODU1NzAsImV4cCI6MTYxOTY3NzU3MH0.bn5-pFA9cVlcsvEhDDL-jbVntKByQczQMqYUgGMHAzg",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\r\n\t\"outletId\": \"bz-2ebd3a05-22de-4d0a-baf8-488fddf7b3bb\",\r\n\t\"businessId\": \"bz-58bf1199-ef35-4ecb-a049-129b8d953021\",\r\n\t\"status\":\"true\",\r\n\t\"title\": \"Basic\",\r\n    \"description\": \"90 mins bowling\",\r\n    \"members\": 6,\r\n    \"price\": 50,\r\n    \"duration\": \"1 month\"\r\n}",
+			"url": "{{API_URL}}/membership/create",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJCdXNpbmVzcyBPd25lciIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJidXNpbmVzc0BnbWFpbC5jb20iLCJpYXQiOjE2MTcwODU1NzAsImV4cCI6MTYxOTY3NzU3MH0.bn5-pFA9cVlcsvEhDDL-jbVntKByQczQMqYUgGMHAzg",
+					"type": "text"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "6eabe872-18bd-dcef-96ed-00f9b6a381d7",
+			"name": "update membership",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "PUT",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJCdXNpbmVzcyBPd25lciIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJidXNpbmVzc0BnbWFpbC5jb20iLCJpYXQiOjE2MTcwODU1NzAsImV4cCI6MTYxOTY3NzU3MH0.bn5-pFA9cVlcsvEhDDL-jbVntKByQczQMqYUgGMHAzg",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\r\n\t\"outletId\": \"bz-7e8642da-c0db-4972-8b6b-d42c24402530\",\r\n\t\"businessId\": \"bz-83b1e10b-c5de-4656-a8a1-3c34e6357f8d\",\r\n\t\"status\":\"true\",\r\n\t\"title\": \"Basic bowling\",\r\n    \"description\": \"90 mins bowling\",\r\n    \"members\": 6,\r\n    \"price\": 50,\r\n    \"duration\": \"1 month\"\r\n}",
+			"url": "{{API_URL}}/membership/update/bz-2ebd3a05-22de-4d0a-baf8-488fddf7b3bb/bz-40fab36d-5554-45ed-9334-42266313163e",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJCdXNpbmVzcyBPd25lciIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJidXNpbmVzc0BnbWFpbC5jb20iLCJpYXQiOjE2MTcwODU1NzAsImV4cCI6MTYxOTY3NzU3MH0.bn5-pFA9cVlcsvEhDDL-jbVntKByQczQMqYUgGMHAzg",
+					"type": "text"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "6f2e0477-bb8c-afaa-ae61-272a0300a1ce",
+			"name": "User Register",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "POST",
+			"headers": "Content-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\n\t\"firstName\": \"Bowl\",\n\t\"lastName\": \"America\",\n\t\"email\": \"bowl.america@yopmail.com\",\n\t\"password\":\"bowl123\",\n\t\"provider\": \"APP\"\n}",
+			"url": "{{API_URL}}/users/register",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "700c991f-eefa-1f37-0316-acbf430435fe",
+			"name": "Get near me service items",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "GET",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJBZG1pbiBCWiIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJhZG1pbkBnbWFpbC5jb20iLCJpYXQiOjE2MTY0NzUwODIsImV4cCI6MTYxOTA2NzA4Mn0.S6SzENyA8VZV83tjDptBdJyXMJKagL_2wZpToohszcE",
+			"data": [],
+			"rawModeData": "",
+			"url": "{{API_URL}}/service-item/nearme?country=India&state=Chattisgarh&city=Raipur",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "country",
+					"value": "India"
+				},
+				{
+					"key": "state",
+					"value": "Chattisgarh"
+				},
+				{
+					"key": "city",
+					"value": "Raipur"
+				}
+			],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJBZG1pbiBCWiIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJhZG1pbkBnbWFpbC5jb20iLCJpYXQiOjE2MTY0NzUwODIsImV4cCI6MTYxOTA2NzA4Mn0.S6SzENyA8VZV83tjDptBdJyXMJKagL_2wZpToohszcE",
+					"type": "text"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "7378500b-21c9-76a9-571f-a7c1932bcf43",
+			"name": "Create Business",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "POST",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImJ6LWJlMDU2MDFkLTg0ZDEtNGI2Ny05MTUyLTRkYjlhMDMwZGRjOCIsImZpcnN0TmFtZSI6IkFkbWluIEJ6IiwibGFzdE5hbWUiOiJCb29raW5nIFpvbmUiLCJlbWFpbCI6ImFkbWluQGdtYWlsLmNvbSIsImlhdCI6MTYxOTU4ODA1MywiZXhwIjoxNjIyMTgwMDUzfQ.3SJapKY3jf0_cQO9X8JuNSwy3Qe2iX5aRx0fELrTUyI\nContent-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\n\t\"name\": \"Bowl\",\n\t\"email\": \"bowl.america@yopmail.com\",\n\t\"phone\": \"904/268-1511\",\n\t\"status\": true,\n\t\"provider\": \"APP\",\n\t\"address\": {\n\t\t\"flat\": 10333,\n\t\t\"city\": \"San Jose Blvd\",\n\t\t\"street\": \"Jacksonville\",\n\t\t\"state\": \"Florida\",\n\t\t\"country\": \"USA\",\n\t\t\"zip\": \"322571\"\n\t}\n}",
+			"url": "{{API_URL}}/business/create",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImJ6LWJlMDU2MDFkLTg0ZDEtNGI2Ny05MTUyLTRkYjlhMDMwZGRjOCIsImZpcnN0TmFtZSI6IkFkbWluIEJ6IiwibGFzdE5hbWUiOiJCb29raW5nIFpvbmUiLCJlbWFpbCI6ImFkbWluQGdtYWlsLmNvbSIsImlhdCI6MTYxOTU4ODA1MywiZXhwIjoxNjIyMTgwMDUzfQ.3SJapKY3jf0_cQO9X8JuNSwy3Qe2iX5aRx0fELrTUyI"
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "7700e5d6-b42b-315e-da58-4d05ba30d423",
+			"name": "Party and event update",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "PUT",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJBZG1pbiBCWiIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJhZG1pbkBnbWFpbC5jb20iLCJpYXQiOjE2MTY0NzUwODIsImV4cCI6MTYxOTA2NzA4Mn0.S6SzENyA8VZV83tjDptBdJyXMJKagL_2wZpToohszcE",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\r\n\t\"serviceId\": \"BOWLING\",\r\n    \"serviceConfigId\": \"bz-8854884c-ed4c-46c2-8fc7-819321d23e25\",\r\n\t\"businessId\": \"bz-83b1e10b-c5de-4656-a8a1-3c34e6357f8d\",\r\n\t\"outletId\": \"bz-7e8642da-c0db-4972-8b6b-d42c24402530\",\r\n\t\"title\": \"Marriage party inno\",\r\n\t\"description\": \"Marriage cake will be provided with cocktail\",\r\n    \"time\":[{\r\n        \"from\": 9,\r\n        \"to\": 2,\r\n        \"increment\": \"15m\"\r\n    },{\r\n        \"from\": 2,\r\n        \"to\": 5,\r\n        \"increment\": \"15m\"\r\n    }],\r\n    \"bookingDuration\": [60, 90, 120, 150],\r\n    \"packages\": [{\r\n\t\t\"members\": 20,\r\n\t\t\"price\": 50,\r\n\t\t\"additionalPersonPrice\": 5\r\n\t}]\r\n}",
+			"url": "{{API_URL}}/service-item/update/bz-7e8642da-c0db-4972-8b6b-d42c24402530/bz-6f6c4917-c559-439b-8fbe-319d7be214c3",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJBZG1pbiBCWiIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJhZG1pbkBnbWFpbC5jb20iLCJpYXQiOjE2MTY0NzUwODIsImV4cCI6MTYxOTA2NzA4Mn0.S6SzENyA8VZV83tjDptBdJyXMJKagL_2wZpToohszcE",
+					"type": "text"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "7a73a87d-2226-3460-abdc-1d067ebf705d",
+			"name": "Delete Service",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "DELETE",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJWaWtyYW0iLCJsYXN0TmFtZSI6IlNoYXJtYSIsImVtYWlsIjoidmlrcmFtLnNoYXJtYUBpbm5vZGVlZC5pbiIsImlhdCI6MTYxMzk2MjgyMywiZXhwIjoxNjE2NTU0ODIzfQ.ogUnCFQWBKNZ6sV3SkGF05g7mXsU89Oa5jyEFaYAaGA",
+			"dataMode": "params",
+			"data": [],
+			"rawModeData": "",
+			"url": "{{API_URL}}/services/delete/bowling",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJWaWtyYW0iLCJsYXN0TmFtZSI6IlNoYXJtYSIsImVtYWlsIjoidmlrcmFtLnNoYXJtYUBpbm5vZGVlZC5pbiIsImlhdCI6MTYxMzk2MjgyMywiZXhwIjoxNjE2NTU0ODIzfQ.ogUnCFQWBKNZ6sV3SkGF05g7mXsU89Oa5jyEFaYAaGA"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "7b463b10-aac0-232f-1518-5ad7fbfa7a04",
+			"name": "User Reset Password",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "POST",
+			"headers": "Content-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\n\t\"id\": \"bz-11b3d434-3b83-40a7-ac49-f1274a976788\",\n\t\"oldPassword\": \"123456\",\n\t\"password\": \"12345678\"\n}",
+			"url": "{{API_URL}}/users/reset/password",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "7bd36430-b2f3-fa1c-2552-a208f17c4d1c",
+			"name": "Get service item Buy now and party event list",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "GET",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJBZG1pbiBCWiIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJhZG1pbkBnbWFpbC5jb20iLCJpYXQiOjE2MTY0NzUwODIsImV4cCI6MTYxOTA2NzA4Mn0.S6SzENyA8VZV83tjDptBdJyXMJKagL_2wZpToohszcE",
+			"data": [],
+			"rawModeData": "",
+			"url": "{{API_URL}}/service-item/list/bz-458f42f9-4cb4-4c1c-888f-36f5a30ae372/BOWLING/bz-6c98d28e-7e5c-492e-beb2-82fd005bfb81/BUY_NOW",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJBZG1pbiBCWiIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJhZG1pbkBnbWFpbC5jb20iLCJpYXQiOjE2MTY0NzUwODIsImV4cCI6MTYxOTA2NzA4Mn0.S6SzENyA8VZV83tjDptBdJyXMJKagL_2wZpToohszcE",
+					"type": "text"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "7d804189-2021-f05d-6bae-85d197747b4c",
+			"name": "User Login",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "POST",
+			"headers": "Content-Type: application/json\n// Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJWaWtyYW0iLCJsYXN0TmFtZSI6IlNoYXJtYSIsImVtYWlsIjoidmlrcmFtLnNoYXJtYUBpbm5vZGVlZC5pbiIsImlhdCI6MTYxMzk2MTU3NCwiZXhwIjoxNjE2NTUzNTc0fQ.75j9FSnNcNpToSaJU-MHhDh48FcD220p7JLgrWhsF5c",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\n    \"email\": \"bowl.america@yopmail.com\",\n    \"password\": \"bowl123\"\n}",
+			"url": "{{API_URL}}/users/login",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJWaWtyYW0iLCJsYXN0TmFtZSI6IlNoYXJtYSIsImVtYWlsIjoidmlrcmFtLnNoYXJtYUBpbm5vZGVlZC5pbiIsImlhdCI6MTYxMzk2MTU3NCwiZXhwIjoxNjE2NTUzNTc0fQ.75j9FSnNcNpToSaJU-MHhDh48FcD220p7JLgrWhsF5c",
+					"enabled": false
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "7da0d919-7d95-3937-33de-394d3753780d",
+			"name": "Get Service List",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "GET",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJWaWtyYW0iLCJsYXN0TmFtZSI6IlNoYXJtYSIsImVtYWlsIjoidmlrcmFtLnNoYXJtYUBpbm5vZGVlZC5pbiIsImlhdCI6MTYxMzk2MjgyMywiZXhwIjoxNjE2NTU0ODIzfQ.ogUnCFQWBKNZ6sV3SkGF05g7mXsU89Oa5jyEFaYAaGA",
+			"data": [],
+			"rawModeData": "",
+			"url": "{{API_URL}}/services/list",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJWaWtyYW0iLCJsYXN0TmFtZSI6IlNoYXJtYSIsImVtYWlsIjoidmlrcmFtLnNoYXJtYUBpbm5vZGVlZC5pbiIsImlhdCI6MTYxMzk2MjgyMywiZXhwIjoxNjE2NTU0ODIzfQ.ogUnCFQWBKNZ6sV3SkGF05g7mXsU89Oa5jyEFaYAaGA"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "7fff61a5-4d6a-fb25-bf83-a611f4b69654",
+			"name": "Get User Detail",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "GET",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImJ6LWJlMDU2MDFkLTg0ZDEtNGI2Ny05MTUyLTRkYjlhMDMwZGRjOCIsImZpcnN0TmFtZSI6IkFkbWluIEJ6IiwibGFzdE5hbWUiOiJCb29raW5nIFpvbmUiLCJlbWFpbCI6ImFkbWluQGdtYWlsLmNvbSIsImlhdCI6MTYxOTQyNjk1NiwiZXhwIjoxNjIyMDE4OTU2fQ.oMa3xa8xRQyZt-vsx0-N8hFi3a4-uLZeM9SopNHTQiE",
+			"data": [],
+			"rawModeData": "",
+			"url": "{{API_URL}}/users/detail/bz-58bf1199-ef35-4ecb-a049-129b8d953021",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImJ6LWJlMDU2MDFkLTg0ZDEtNGI2Ny05MTUyLTRkYjlhMDMwZGRjOCIsImZpcnN0TmFtZSI6IkFkbWluIEJ6IiwibGFzdE5hbWUiOiJCb29raW5nIFpvbmUiLCJlbWFpbCI6ImFkbWluQGdtYWlsLmNvbSIsImlhdCI6MTYxOTQyNjk1NiwiZXhwIjoxNjIyMDE4OTU2fQ.oMa3xa8xRQyZt-vsx0-N8hFi3a4-uLZeM9SopNHTQiE"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "89e974de-1996-4931-f026-360aa3fbc8a1",
+			"name": "Get customer near me outlets and buy now",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "GET",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJCdXNpbmVzcyBPd25lciIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJidXNpbmVzc0BnbWFpbC5jb20iLCJpYXQiOjE2MTcwODU1NzAsImV4cCI6MTYxOTY3NzU3MH0.bn5-pFA9cVlcsvEhDDL-jbVntKByQczQMqYUgGMHAzg",
+			"data": [],
+			"rawModeData": "",
+			"url": "{{API_URL}}/customer/nearme?country=India&state=Chattisgarh&city=Bhilai&userId=bz-e9ce1b5c-e557-4ef2-b48b-57323f0fb24a",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "country",
+					"value": "India"
+				},
+				{
+					"key": "state",
+					"value": "Chattisgarh"
+				},
+				{
+					"key": "city",
+					"value": "Bhilai"
+				},
+				{
+					"key": "userId",
+					"value": "bz-e9ce1b5c-e557-4ef2-b48b-57323f0fb24a"
+				}
+			],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJCdXNpbmVzcyBPd25lciIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJidXNpbmVzc0BnbWFpbC5jb20iLCJpYXQiOjE2MTcwODU1NzAsImV4cCI6MTYxOTY3NzU3MH0.bn5-pFA9cVlcsvEhDDL-jbVntKByQczQMqYUgGMHAzg",
+					"type": "text"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "8ea70a65-4195-eebf-808e-158619ba708c",
+			"name": "Get Business Detail",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "GET",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJWaWtyYW0iLCJsYXN0TmFtZSI6IlNoYXJtYSIsImVtYWlsIjoidmlrcmFtLnNoYXJtYUBpbm5vZGVlZC5pbiIsImlhdCI6MTYxMzk2MjgyMywiZXhwIjoxNjE2NTU0ODIzfQ.ogUnCFQWBKNZ6sV3SkGF05g7mXsU89Oa5jyEFaYAaGA\nContent-Type: application/json",
+			"data": [],
+			"rawModeData": "",
+			"url": "{{API_URL}}/business/details/bz-83b1e10b-c5de-4656-a8a1-3c34e6357f8d",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJWaWtyYW0iLCJsYXN0TmFtZSI6IlNoYXJtYSIsImVtYWlsIjoidmlrcmFtLnNoYXJtYUBpbm5vZGVlZC5pbiIsImlhdCI6MTYxMzk2MjgyMywiZXhwIjoxNjE2NTU0ODIzfQ.ogUnCFQWBKNZ6sV3SkGF05g7mXsU89Oa5jyEFaYAaGA"
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "906f5128-297b-090b-73d1-35311d8d3667",
+			"name": "Delete favorite item/outlet",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "DELETE",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJCdXNpbmVzcyBPd25lciIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJidXNpbmVzc0BnbWFpbC5jb20iLCJpYXQiOjE2MTcwODU1NzAsImV4cCI6MTYxOTY3NzU3MH0.bn5-pFA9cVlcsvEhDDL-jbVntKByQczQMqYUgGMHAzg",
+			"data": [],
+			"rawModeData": "",
+			"url": "{{API_URL}}/favourite/delete/bz-e9ce1b5c-e557-4ef2-b48b-57323f0fb24a/OUTLET/bz-7e8642da-c0db-4972-8b6b-d42c24402530",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJCdXNpbmVzcyBPd25lciIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJidXNpbmVzc0BnbWFpbC5jb20iLCJpYXQiOjE2MTcwODU1NzAsImV4cCI6MTYxOTY3NzU3MH0.bn5-pFA9cVlcsvEhDDL-jbVntKByQczQMqYUgGMHAzg",
+					"type": "text"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "9217841b-421d-f5d0-88e8-e814ecf0257c",
+			"name": "Update User",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "PUT",
+			"headers": "Content-Type: application/json\nAuthorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImJ6LWJlMDU2MDFkLTg0ZDEtNGI2Ny05MTUyLTRkYjlhMDMwZGRjOCIsImZpcnN0TmFtZSI6IkFkbWluIEJ6IiwibGFzdE5hbWUiOiJCb29raW5nIFpvbmUiLCJlbWFpbCI6ImFkbWluQGdtYWlsLmNvbSIsImlhdCI6MTYxOTQyNjk1NiwiZXhwIjoxNjIyMDE4OTU2fQ.oMa3xa8xRQyZt-vsx0-N8hFi3a4-uLZeM9SopNHTQiE",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\n\t\"id\": \"bz-58bf1199-ef35-4ecb-a049-129b8d953021\",\n    \"provider\": \"APP\",\n    \"lastName\": \"Booking Zone1\"\n}",
+			"url": "{{API_URL}}/users/update",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImJ6LWJlMDU2MDFkLTg0ZDEtNGI2Ny05MTUyLTRkYjlhMDMwZGRjOCIsImZpcnN0TmFtZSI6IkFkbWluIEJ6IiwibGFzdE5hbWUiOiJCb29raW5nIFpvbmUiLCJlbWFpbCI6ImFkbWluQGdtYWlsLmNvbSIsImlhdCI6MTYxOTQyNjk1NiwiZXhwIjoxNjIyMDE4OTU2fQ.oMa3xa8xRQyZt-vsx0-N8hFi3a4-uLZeM9SopNHTQiE",
+					"type": "text"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "a1633ab7-18b5-40a7-6399-62c69ba64c41",
+			"name": "Get customer booking list",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "GET",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImJ6LTU4YmYxMTk5LWVmMzUtNGVjYi1hMDQ5LTEyOWI4ZDk1MzAyMSIsImZpcnN0TmFtZSI6IkJ1c2luZXNzIiwibGFzdE5hbWUiOiJCb29raW5nIFpvbmUiLCJlbWFpbCI6ImJ1c2luZXNzQGdtYWlsLmNvbSIsImlhdCI6MTYxOTE3NjMzNSwiZXhwIjoxNjIxNzY4MzM1fQ.2vio5eQmFeKAdQrfIVwWbbeM_1l5hIR-PsXmoxPiO2U",
+			"data": [],
+			"rawModeData": "",
+			"url": "{{API_URL}}/booking/list/bz-26868d1a-b011-4c6e-9eca-9d952d3ee226",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImJ6LTU4YmYxMTk5LWVmMzUtNGVjYi1hMDQ5LTEyOWI4ZDk1MzAyMSIsImZpcnN0TmFtZSI6IkJ1c2luZXNzIiwibGFzdE5hbWUiOiJCb29raW5nIFpvbmUiLCJlbWFpbCI6ImJ1c2luZXNzQGdtYWlsLmNvbSIsImlhdCI6MTYxOTE3NjMzNSwiZXhwIjoxNjIxNzY4MzM1fQ.2vio5eQmFeKAdQrfIVwWbbeM_1l5hIR-PsXmoxPiO2U",
+					"type": "text"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "ab014b36-caeb-7469-e0ae-7ba9ba6624ff",
+			"name": "Get outlet's services config list",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "GET",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJBZG1pbiBCWiIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJhZG1pbkBnbWFpbC5jb20iLCJpYXQiOjE2MTY0NzUwODIsImV4cCI6MTYxOTA2NzA4Mn0.S6SzENyA8VZV83tjDptBdJyXMJKagL_2wZpToohszcE",
+			"data": [],
+			"rawModeData": "",
+			"url": "{{API_URL}}/outlets/services/list/bz-458f42f9-4cb4-4c1c-888f-36f5a30ae372",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJBZG1pbiBCWiIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJhZG1pbkBnbWFpbC5jb20iLCJpYXQiOjE2MTY0NzUwODIsImV4cCI6MTYxOTA2NzA4Mn0.S6SzENyA8VZV83tjDptBdJyXMJKagL_2wZpToohszcE",
+					"type": "text"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "b07251e5-c88e-2470-329f-583dfe5a7b66",
+			"name": "Create Service Config",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "POST",
+			"headers": "Content-Type: application/json\nAuthorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImJ6LTU4YmYxMTk5LWVmMzUtNGVjYi1hMDQ5LTEyOWI4ZDk1MzAyMSIsImZpcnN0TmFtZSI6IkJ1c2luZXNzIiwibGFzdE5hbWUiOiJCb29raW5nIFpvbmUiLCJlbWFpbCI6ImJ1c2luZXNzQGdtYWlsLmNvbSIsImlhdCI6MTYxOTE3NjMzNSwiZXhwIjoxNjIxNzY4MzM1fQ.2vio5eQmFeKAdQrfIVwWbbeM_1l5hIR-PsXmoxPiO2U",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\n\t\"outletId\": \"bz-2ebd3a05-22de-4d0a-baf8-488fddf7b3bb\",\n\t\"businessId\": \"bz-58bf1199-ef35-4ecb-a049-129b8d953021\",\n\t\"status\":true,\n\t\"lanes\": 12,\n\t\"uberFlag\": true,\n    \"serviceId\": \"BOWLING\",\n    \"address\": {\n\t\t\"flat\": 7,\n\t\t\"city\": \"Bhilai\",\n\t\t\"street\": \"Gandhi Chowk\",\n\t\t\"state\": \"Chattisgarh\",\n\t\t\"country\": \"India\",\n\t\t\"zip\": \"492008\"\n\t},\n    \"name\": \"Testing Outlet\"\n}",
+			"url": "{{API_URL}}/service-config/create",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImJ6LTU4YmYxMTk5LWVmMzUtNGVjYi1hMDQ5LTEyOWI4ZDk1MzAyMSIsImZpcnN0TmFtZSI6IkJ1c2luZXNzIiwibGFzdE5hbWUiOiJCb29raW5nIFpvbmUiLCJlbWFpbCI6ImJ1c2luZXNzQGdtYWlsLmNvbSIsImlhdCI6MTYxOTE3NjMzNSwiZXhwIjoxNjIxNzY4MzM1fQ.2vio5eQmFeKAdQrfIVwWbbeM_1l5hIR-PsXmoxPiO2U"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "b2a1ec24-8422-01da-94f9-6b529881fbc3",
+			"name": "Customer login",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "POST",
+			"headers": "",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\r\n    \"provider\": \"custom\",\r\n    \"token\": \"eyJraWQiOiJcL3ZwdWZXbUhOUU81SjN0ZzRXcFNhdGI0NTJxQkdlNjRPWHJDXC9TWCtFY1E9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiIwMmQxMDU5Mi1hODExLTRiMjEtODNmZS01YzZhMDkzOTdiZTkiLCJhdWQiOiIxam5xZGhxM2ZodWdxYnZtcHFlNjBta2N2OCIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJldmVudF9pZCI6IjU2MDY2ZTE0LTQxM2QtNDUxMC1iMjk4LTYxYjNhNWY5NmIxOSIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNjE5NDI3NTQzLCJpc3MiOiJodHRwczpcL1wvY29nbml0by1pZHAuYXAtc291dGgtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aC0xX3FIOFpONDFMWSIsImNvZ25pdG86dXNlcm5hbWUiOiJ2aWtyYW0iLCJleHAiOjE2MTk0MzExNDMsImlhdCI6MTYxOTQyNzU0MywiZW1haWwiOiJ2aWtyYW0uc2hhcm1hQGlubm9kZWVkLmNvbSJ9.jmb3Qd0VaE6QGWcE52vIyLJwN9dNoTYRVpa3_NMZtfya2ZOJeJk01r7z6oCmnVVgp55KKlvuCg6mpHQAaEQ9QsAn5ZlH1RRpct6IAaU9JyNNbIGC0tzNuGVvCgkubYJ0y8-44si68lebeBouM4CD97a9-zbQ1hPGWVj-Pk_csS9zuD9KyRnfXndjbk2qA4_szXAcwiay0ExulYgHP8BqAVcH8R4L_cackTC3jTUs0QJ5nM5Kv6WhbMv3syJfzf0Y0W3cFJ-_Y0Hi5jIlwLxKxhSG7NhzeL_HXLymrDvGTnj6q8qw7l5MHILXPL97xEWh1AmStS5bqbFVf8lHESdhjw\"\r\n}",
+			"url": "{{API_URL}}/users/customer/login",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "b2cfe664-d994-2dc4-ae43-54e61d05d89f",
+			"name": "Create favourite item/outlet",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "POST",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJCdXNpbmVzcyBPd25lciIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJidXNpbmVzc0BnbWFpbC5jb20iLCJpYXQiOjE2MTcwODU1NzAsImV4cCI6MTYxOTY3NzU3MH0.bn5-pFA9cVlcsvEhDDL-jbVntKByQczQMqYUgGMHAzg",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\r\n    \"userId\": \"bz-e9ce1b5c-e557-4ef2-b48b-57323f0fb24a\",\r\n    \"outletId\": \"bz-19c00e3a-392c-4d2f-a2ad-2af1fbf0863e\",\r\n    \"outletName\": \"Testing Outlet\",\r\n    \"entityType\": \"OUTLET\"\r\n}",
+			"url": "{{API_URL}}/favourite/create",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJCdXNpbmVzcyBPd25lciIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJidXNpbmVzc0BnbWFpbC5jb20iLCJpYXQiOjE2MTcwODU1NzAsImV4cCI6MTYxOTY3NzU3MH0.bn5-pFA9cVlcsvEhDDL-jbVntKByQczQMqYUgGMHAzg",
+					"type": "text"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "b4693730-f442-21b9-b9d7-f41f3a76aa13",
+			"name": "Create Booking",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "POST",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImJ6LTU4YmYxMTk5LWVmMzUtNGVjYi1hMDQ5LTEyOWI4ZDk1MzAyMSIsImZpcnN0TmFtZSI6IkJ1c2luZXNzIiwibGFzdE5hbWUiOiJCb29raW5nIFpvbmUiLCJlbWFpbCI6ImJ1c2luZXNzQGdtYWlsLmNvbSIsImlhdCI6MTYxOTE3NjMzNSwiZXhwIjoxNjIxNzY4MzM1fQ.2vio5eQmFeKAdQrfIVwWbbeM_1l5hIR-PsXmoxPiO2U",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\r\n\t\"serviceId\": \"BOWLING\",\r\n    \"serviceConfigId\": \"bz-d9f6d59e-7ea6-4f0d-a2ab-50d0d33f1e1f\",\r\n\t\"businessId\": \"bz-58bf1199-ef35-4ecb-a049-129b8d953021\",\r\n\t\"outletId\": \"bz-2ebd3a05-22de-4d0a-baf8-488fddf7b3bb\",\r\n    \"userId\": \"bz-26868d1a-b011-4c6e-9eca-9d952d3ee226\",\r\n\t\"serviceItemId\": \"bz-1f5c5616-a35c-4efe-a1a3-65383e8cdc4f\",\r\n\t\"serviceItemType\": \"BUY_NOW\",\r\n\t\"itemEntityType\": \"SERVICE_ITEMS\",\r\n    \"outletAddress\": {\r\n            \"zip\": \"492008\",\r\n            \"country\": \"India\",\r\n            \"state\": \"Chattisgarh\",\r\n            \"city\": \"Bhilai\",\r\n            \"flat\": 7,\r\n            \"street\": \"Gandhi Chowk\"\r\n    },\r\n\t\"date\": \"2021-04-21\",\r\n\t\"time\": \"17.00\",\r\n    \"duration\": \"1.0\",\r\n\t\"pricePerHour\": true,\r\n\t\"pricePerGame\": false,\r\n    \"guestcount\": 10,\r\n\t\"lanes\": 2\r\n}",
+			"url": "{{API_URL}}/booking/create",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImJ6LTU4YmYxMTk5LWVmMzUtNGVjYi1hMDQ5LTEyOWI4ZDk1MzAyMSIsImZpcnN0TmFtZSI6IkJ1c2luZXNzIiwibGFzdE5hbWUiOiJCb29raW5nIFpvbmUiLCJlbWFpbCI6ImJ1c2luZXNzQGdtYWlsLmNvbSIsImlhdCI6MTYxOTE3NjMzNSwiZXhwIjoxNjIxNzY4MzM1fQ.2vio5eQmFeKAdQrfIVwWbbeM_1l5hIR-PsXmoxPiO2U",
+					"type": "text"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "b6371405-2cf9-dcb7-ec73-6dc68544b5fc",
+			"name": "Update Outlet",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "PUT",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJCdXNpbmVzcyBPd25lciIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJidXNpbmVzc0BnbWFpbC5jb20iLCJpYXQiOjE2MTcwODU1NzAsImV4cCI6MTYxOTY3NzU3MH0.bn5-pFA9cVlcsvEhDDL-jbVntKByQczQMqYUgGMHAzg\nContent-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\n\"businessId\": \"bz-83b1e10b-c5de-4656-a8a1-3c34e6357f8d\",\n\"provider\": \"APP\"\n}",
+			"url": "{{API_URL}}/outlets/update/bz-83b1e10b-c5de-4656-a8a1-3c34e6357f8d/bz-8a86753c-b9aa-4de4-b9ae-1982f56c4f3d",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJCdXNpbmVzcyBPd25lciIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJidXNpbmVzc0BnbWFpbC5jb20iLCJpYXQiOjE2MTcwODU1NzAsImV4cCI6MTYxOTY3NzU3MH0.bn5-pFA9cVlcsvEhDDL-jbVntKByQczQMqYUgGMHAzg"
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "beb47770-834e-e25a-d88e-0cf9fa84df7f",
+			"name": "Get service config detail",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "GET",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJBZG1pbiBCWiIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJhZG1pbkBnbWFpbC5jb20iLCJpYXQiOjE2MTY0NzUwODIsImV4cCI6MTYxOTA2NzA4Mn0.S6SzENyA8VZV83tjDptBdJyXMJKagL_2wZpToohszcE",
+			"data": [],
+			"rawModeData": "",
+			"url": "{{API_URL}}/service-config/details/bz-458f42f9-4cb4-4c1c-888f-36f5a30ae372/bz-6c98d28e-7e5c-492e-beb2-82fd005bfb81",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJBZG1pbiBCWiIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJhZG1pbkBnbWFpbC5jb20iLCJpYXQiOjE2MTY0NzUwODIsImV4cCI6MTYxOTA2NzA4Mn0.S6SzENyA8VZV83tjDptBdJyXMJKagL_2wZpToohszcE",
+					"type": "text"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "bfdbf419-388e-1f08-bc83-f446f289af19",
+			"name": "Get Outlet Detail",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "GET",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImJ6LTU4YmYxMTk5LWVmMzUtNGVjYi1hMDQ5LTEyOWI4ZDk1MzAyMSIsImZpcnN0TmFtZSI6IkJ1c2luZXNzIiwibGFzdE5hbWUiOiJCb29raW5nIFpvbmUiLCJlbWFpbCI6ImJ1c2luZXNzQGdtYWlsLmNvbSIsImlhdCI6MTYxOTE3NjMzNSwiZXhwIjoxNjIxNzY4MzM1fQ.2vio5eQmFeKAdQrfIVwWbbeM_1l5hIR-PsXmoxPiO2U",
+			"data": [],
+			"rawModeData": "",
+			"url": "{{API_URL}}/outlets/details/bz-58bf1199-ef35-4ecb-a049-129b8d953021/bz-2ebd3a05-22de-4d0a-baf8-488fddf7b3bb",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImJ6LTU4YmYxMTk5LWVmMzUtNGVjYi1hMDQ5LTEyOWI4ZDk1MzAyMSIsImZpcnN0TmFtZSI6IkJ1c2luZXNzIiwibGFzdE5hbWUiOiJCb29raW5nIFpvbmUiLCJlbWFpbCI6ImJ1c2luZXNzQGdtYWlsLmNvbSIsImlhdCI6MTYxOTE3NjMzNSwiZXhwIjoxNjIxNzY4MzM1fQ.2vio5eQmFeKAdQrfIVwWbbeM_1l5hIR-PsXmoxPiO2U"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "c0d3168c-d6c5-70ee-421b-0ff44ca54a81",
+			"name": "Update Manager",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "PUT",
+			"headers": "Content-Type: application/json\nAuthorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJWaWtyYW0iLCJsYXN0TmFtZSI6IlNoYXJtYSIsImVtYWlsIjoidmlrcmFtLnNoYXJtYUBpbm5vZGVlZC5pbiIsImlhdCI6MTYxNzE5MTcyOSwiZXhwIjoxNjE5NzgzNzI5fQ.-NnCiswkxM2M36SiurfkFUwBMkcyW3dHN965scPbqf4",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\n       \n        \"businessId\": \"bz-dac89523-a36f-43c2-98bb-29574822baa2\",\n        \"status\": true,\n        \"outletId\": \"bz-36427414-918f-4ba5-8433-6160493db032\"\n}",
+			"url": "{{API_URL}}/manager/update/bz-5a6a66a7-37b7-4f5c-bf49-475de3a1cdb3",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJWaWtyYW0iLCJsYXN0TmFtZSI6IlNoYXJtYSIsImVtYWlsIjoidmlrcmFtLnNoYXJtYUBpbm5vZGVlZC5pbiIsImlhdCI6MTYxNzE5MTcyOSwiZXhwIjoxNjE5NzgzNzI5fQ.-NnCiswkxM2M36SiurfkFUwBMkcyW3dHN965scPbqf4"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "cc77747b-d9fa-4a44-5e16-3b1673b6bd1a",
+			"name": "Delete Outlet",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "DELETE",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJWaWtyYW0iLCJsYXN0TmFtZSI6IlNoYXJtYSIsImVtYWlsIjoidmlrcmFtLnNoYXJtYUBpbm5vZGVlZC5pbiIsImlhdCI6MTYxMzk2MjgyMywiZXhwIjoxNjE2NTU0ODIzfQ.ogUnCFQWBKNZ6sV3SkGF05g7mXsU89Oa5jyEFaYAaGA",
+			"dataMode": "params",
+			"data": [],
+			"rawModeData": "",
+			"url": "{{API_URL}}/outlets/delete/bz-83b1e10b-c5de-4656-a8a1-3c34e6357f8d/bz-8a86753c-b9aa-4de4-b9ae-1982f56c4f3d",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJWaWtyYW0iLCJsYXN0TmFtZSI6IlNoYXJtYSIsImVtYWlsIjoidmlrcmFtLnNoYXJtYUBpbm5vZGVlZC5pbiIsImlhdCI6MTYxMzk2MjgyMywiZXhwIjoxNjE2NTU0ODIzfQ.ogUnCFQWBKNZ6sV3SkGF05g7mXsU89Oa5jyEFaYAaGA"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "cc7a390e-722e-a8be-8e6b-4e7f287bd204",
+			"name": "User Account Verification",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "GET",
+			"headers": "",
+			"data": [],
+			"rawModeData": "",
+			"url": "{{API_URL}}/users/account/verification/bz-11b3d434-3b83-40a7-ac49-f1274a976788/bz-conf-7f443a76-396f-4392-9ea2-a7e8b96451ca",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "dc2867b6-d410-a785-3979-89b996b1c6bc",
+			"name": "Create Service",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "POST",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJWaWtyYW0iLCJsYXN0TmFtZSI6IlNoYXJtYSIsImVtYWlsIjoidmlrcmFtLnNoYXJtYUBpbm5vZGVlZC5pbiIsImlhdCI6MTYxMzk2MjgyMywiZXhwIjoxNjE2NTU0ODIzfQ.ogUnCFQWBKNZ6sV3SkGF05g7mXsU89Oa5jyEFaYAaGA\nContent-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\n\t\"name\": \"Food Zone\",\n\t\"description\": \"no description\",\n\t\"active\": true\n}",
+			"url": "{{API_URL}}/services/create",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJWaWtyYW0iLCJsYXN0TmFtZSI6IlNoYXJtYSIsImVtYWlsIjoidmlrcmFtLnNoYXJtYUBpbm5vZGVlZC5pbiIsImlhdCI6MTYxMzk2MjgyMywiZXhwIjoxNjE2NTU0ODIzfQ.ogUnCFQWBKNZ6sV3SkGF05g7mXsU89Oa5jyEFaYAaGA"
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "e5063dff-8b8a-18dd-0487-7c8db8545d6a",
+			"name": "Get Outlet List",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "GET",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJCdXNpbmVzcyBPd25lciIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJidXNpbmVzc0BnbWFpbC5jb20iLCJpYXQiOjE2MTcwODU1NzAsImV4cCI6MTYxOTY3NzU3MH0.bn5-pFA9cVlcsvEhDDL-jbVntKByQczQMqYUgGMHAzg",
+			"data": [],
+			"rawModeData": "",
+			"url": "{{API_URL}}/outlets/list/bz-83b1e10b-c5de-4656-a8a1-3c34e6357f8d",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJCdXNpbmVzcyBPd25lciIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJidXNpbmVzc0BnbWFpbC5jb20iLCJpYXQiOjE2MTcwODU1NzAsImV4cCI6MTYxOTY3NzU3MH0.bn5-pFA9cVlcsvEhDDL-jbVntKByQczQMqYUgGMHAzg"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "f0301e98-c303-6bf7-0e88-9246e9f23931",
+			"name": "Get membership detail",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "GET",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImJ6LTU4YmYxMTk5LWVmMzUtNGVjYi1hMDQ5LTEyOWI4ZDk1MzAyMSIsImZpcnN0TmFtZSI6IkJ1c2luZXNzIiwibGFzdE5hbWUiOiJCb29raW5nIFpvbmUiLCJlbWFpbCI6ImJ1c2luZXNzQGdtYWlsLmNvbSIsImlhdCI6MTYxOTQxMDk2OCwiZXhwIjoxNjIyMDAyOTY4fQ.oyBaCxS7E0WNsKbvbiFqutqq5tHfVgT35zLuIBfddlY",
+			"data": [],
+			"rawModeData": "",
+			"url": "{{API_URL}}/membership/details/bz-2ebd3a05-22de-4d0a-baf8-488fddf7b3bb/bz-40fab36d-5554-45ed-9334-42266313163e",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImJ6LTU4YmYxMTk5LWVmMzUtNGVjYi1hMDQ5LTEyOWI4ZDk1MzAyMSIsImZpcnN0TmFtZSI6IkJ1c2luZXNzIiwibGFzdE5hbWUiOiJCb29raW5nIFpvbmUiLCJlbWFpbCI6ImJ1c2luZXNzQGdtYWlsLmNvbSIsImlhdCI6MTYxOTQxMDk2OCwiZXhwIjoxNjIyMDAyOTY4fQ.oyBaCxS7E0WNsKbvbiFqutqq5tHfVgT35zLuIBfddlY"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "f29543a8-5174-d641-7de5-e861481cfb47",
+			"name": "Update Service",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "PUT",
+			"headers": "Content-Type: application/json\nAuthorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJWaWtyYW0iLCJsYXN0TmFtZSI6IlNoYXJtYSIsImVtYWlsIjoidmlrcmFtLnNoYXJtYUBpbm5vZGVlZC5pbiIsImlhdCI6MTYxMzk2MjgyMywiZXhwIjoxNjE2NTU0ODIzfQ.ogUnCFQWBKNZ6sV3SkGF05g7mXsU89Oa5jyEFaYAaGA",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\n\t\n\t\"active\": true\n}",
+			"url": "{{API_URL}}/services/update/PARTY_&_EVENTS",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJWaWtyYW0iLCJsYXN0TmFtZSI6IlNoYXJtYSIsImVtYWlsIjoidmlrcmFtLnNoYXJtYUBpbm5vZGVlZC5pbiIsImlhdCI6MTYxMzk2MjgyMywiZXhwIjoxNjE2NTU0ODIzfQ.ogUnCFQWBKNZ6sV3SkGF05g7mXsU89Oa5jyEFaYAaGA"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "f35383eb-f747-5787-24c6-f279f8a32e30",
+			"name": "Update Service Item",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "PUT",
+			"headers": "auth: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJWaWtyYW0iLCJsYXN0TmFtZSI6IlNoYXJtYSIsImVtYWlsIjoidmlrcmFtLnNoYXJtYUBpbm5vZGVlZC5pbiIsImlhdCI6MTYxMzk2MjgyMywiZXhwIjoxNjE2NTU0ODIzfQ.ogUnCFQWBKNZ6sV3SkGF05g7mXsU89Oa5jyEFaYAaGA\nContent-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\n\t\"serviceId\": \"BOWLING\",\n\t\"serviceConfigId\": \"bz-8854884c-ed4c-46c2-8fc7-819321d23e25\",\n\t\"outletId\": \"bz-7e8642da-c0db-4972-8b6b-d42c24402530\",\n\t\"businessId\": \"bz-83b1e10b-c5de-4656-a8a1-3c34e6357f8d\",\n\t\"title\": \"Reserve Lane three\",\n\t\"description\": \"No description\",\n\t\"schedules\": [{\n\t\t\"days\": [1, 2, 3, 4],\n\t\t\"dateRange\": {\n\t\t\t\"startDate\": \"2021-03-08\",\n\t\t\t\"endDate\": \"2021-03-11\"\n\t\t},\n\t\t\"purchaseItems\": [\n\t\t\t{\n\t\t\t\t\"name\": \"Item 1\",\n\t\t\t\t\"price\": \"10\",\n\t\t\t\t\"currencySymbol\": \"$\"\n\t\t\t},\n\t\t\t{\n\t\t\t\t\"name\": \"Item 2\",\n\t\t\t\t\"price\": 11,\n\t\t\t\t\"currencySymbol\": \"$\"\n\t\t\t}\n\t\t],\n\t\t\"bookingDuration\": [60, 90, 120, 150],\n\t\t\"reservationSlots\": [\n\t\t{\n\t\t\t\"from\": 10,\n\t\t\t\"to\": 11,\n\t\t\t\"interval\": 15,\n\t\t\t\"pricePerHours\": {\n\t\t\t\t\"price\": 10,\n\t\t\t\t\"currencySymbol\": \"$\"\t\t\t\n\t\t\t},\n\t\t\t\"pricePerGame\": [\n\t\t\t\t{\n\t\t\t\t\t\"type\": \"Child\",\n\t\t\t\t\t\"price\": 10,\n\t\t\t\t\t\"currencySymbol\": \"$\"\n\t\t\t\t},\n\t\t\t\t{\n\t\t\t\t\t\"type\": \"Adult\",\n\t\t\t\t\t\"price\": 12,\n\t\t\t\t\t\"currencySymbol\": \"$\"\n\t\t\t\t},\n                {\n\t\t\t\t\t\"type\": \"Senior\",\n\t\t\t\t\t\"price\": 15,\n\t\t\t\t\t\"currencySymbol\": \"$\"\n\t\t\t\t}\t\t\n\t\t\t]\n\t\t\t\t\t\t\t\t\t\n\t\t}\n\t]\n\t}]\n}",
+			"url": "{{API_URL}}/service-item/update/bz-7e8642da-c0db-4972-8b6b-d42c24402530/bz-9628b7f0-333c-4826-a67f-6711140d8070",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "auth",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJWaWtyYW0iLCJsYXN0TmFtZSI6IlNoYXJtYSIsImVtYWlsIjoidmlrcmFtLnNoYXJtYUBpbm5vZGVlZC5pbiIsImlhdCI6MTYxMzk2MjgyMywiZXhwIjoxNjE2NTU0ODIzfQ.ogUnCFQWBKNZ6sV3SkGF05g7mXsU89Oa5jyEFaYAaGA"
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "f427c2c8-592e-193e-5b55-52bd624e8705",
+			"name": "Create Outlet",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "POST",
+			"headers": "Content-Type: application/json\nAuthorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJCdXNpbmVzcyBPd25lciIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJidXNpbmVzc0BnbWFpbC5jb20iLCJpYXQiOjE2MTcwODU1NzAsImV4cCI6MTYxOTY3NzU3MH0.bn5-pFA9cVlcsvEhDDL-jbVntKByQczQMqYUgGMHAzg",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\n\t\"businessId\": \"bz-58bf1199-ef35-4ecb-a049-129b8d953021\",\n\t\"name\": \"Testing 12 Outlet\",\n\t\"email\": \"test12@gmail.com\",\n\t\"phone\": 9876543210,\n\t\"status\": true,\n\t\"provider\": \"APP\",\n\t\"address\": {\n\t\t\"flat\": 7,\n\t\t\"city\": \"Bhilai\",\n\t\t\"street\": \"Gandhi Chowk\",\n\t\t\"state\": \"Chattisgarh\",\n\t\t\"country\": \"India\",\n\t\t\"zip\": \"492008\"\n\t}\n}",
+			"url": "{{API_URL}}/outlets/create",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJCdXNpbmVzcyBPd25lciIsImxhc3ROYW1lIjoiQm9va2luZyBab25lIiwiZW1haWwiOiJidXNpbmVzc0BnbWFpbC5jb20iLCJpYXQiOjE2MTcwODU1NzAsImV4cCI6MTYxOTY3NzU3MH0.bn5-pFA9cVlcsvEhDDL-jbVntKByQczQMqYUgGMHAzg"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "fa6f3306-7b16-d5b9-c386-881da72db7c3",
+			"name": "Delete Business",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "DELETE",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJWaWtyYW0iLCJsYXN0TmFtZSI6IlNoYXJtYSIsImVtYWlsIjoidmlrcmFtLnNoYXJtYUBpbm5vZGVlZC5pbiIsImlhdCI6MTYxMzk2MjgyMywiZXhwIjoxNjE2NTU0ODIzfQ.ogUnCFQWBKNZ6sV3SkGF05g7mXsU89Oa5jyEFaYAaGA",
+			"dataMode": "params",
+			"data": [],
+			"rawModeData": "",
+			"url": "{{API_URL}}/business/delete/bz-0de9906f-a235-45f0-bca6-f2c283f74813",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJWaWtyYW0iLCJsYXN0TmFtZSI6IlNoYXJtYSIsImVtYWlsIjoidmlrcmFtLnNoYXJtYUBpbm5vZGVlZC5pbiIsImlhdCI6MTYxMzk2MjgyMywiZXhwIjoxNjE2NTU0ODIzfQ.ogUnCFQWBKNZ6sV3SkGF05g7mXsU89Oa5jyEFaYAaGA"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		},
+		{
+			"id": "fc82d13b-328f-7834-fe59-891c25f569c9",
+			"name": "Cancel booking",
+			"description": "",
+			"collectionId": "183b74ee-cd62-25b6-a50e-42bb61735afe",
+			"method": "PUT",
+			"headers": "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImJ6LTU4YmYxMTk5LWVmMzUtNGVjYi1hMDQ5LTEyOWI4ZDk1MzAyMSIsImZpcnN0TmFtZSI6IkJ1c2luZXNzIiwibGFzdE5hbWUiOiJCb29raW5nIFpvbmUiLCJlbWFpbCI6ImJ1c2luZXNzQGdtYWlsLmNvbSIsImlhdCI6MTYxOTE3NjMzNSwiZXhwIjoxNjIxNzY4MzM1fQ.2vio5eQmFeKAdQrfIVwWbbeM_1l5hIR-PsXmoxPiO2U",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "{{API_URL}}/booking/cancel/bz-26868d1a-b011-4c6e-9eca-9d952d3ee226/1rmYpq5lz1XquLzeIiYqOb8BeKM",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImJ6LTU4YmYxMTk5LWVmMzUtNGVjYi1hMDQ5LTEyOWI4ZDk1MzAyMSIsImZpcnN0TmFtZSI6IkJ1c2luZXNzIiwibGFzdE5hbWUiOiJCb29raW5nIFpvbmUiLCJlbWFpbCI6ImJ1c2luZXNzQGdtYWlsLmNvbSIsImlhdCI6MTYxOTE3NjMzNSwiZXhwIjoxNjIxNzY4MzM1fQ.2vio5eQmFeKAdQrfIVwWbbeM_1l5hIR-PsXmoxPiO2U",
+					"type": "text"
+				}
+			],
+			"collection_id": "183b74ee-cd62-25b6-a50e-42bb61735afe"
+		}
+	]
+}
